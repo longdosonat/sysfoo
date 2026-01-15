@@ -1,6 +1,6 @@
 package com.example.sysfoo.service;
 
-import com.example.sysfoo.model.Todo;
+import com.example.sysfoo.entity.Todo;
 import com.example.sysfoo.repository.TodoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
