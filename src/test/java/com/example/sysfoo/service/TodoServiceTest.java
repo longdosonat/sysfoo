@@ -3,7 +3,7 @@ package com.example.sysfoo.service;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.when;
 
-import com.example.sysfoo.model.Todo;
+import com.example.sysfoo.entity.Todo;
 import com.example.sysfoo.repository.TodoRepository;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
